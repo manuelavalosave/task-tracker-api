@@ -324,3 +324,8 @@ Tabla de endpoints actualizada:
 4. `src/index.ts` (exportar `app`)
 5. `src/routes/tasks.test.ts` (tests)
 6. `README.md` (tabla y curls)
+
+## Oblicacion
+- cada item que resuelvas realizaras el check del spec.
+- Realiza commit y cuando vayas a realizar un pr debes de avisar.
+- Si realisas otras tareas que no estan especificas en el archivo spec debes de avisar.
